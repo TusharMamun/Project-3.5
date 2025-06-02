@@ -1,4 +1,4 @@
-import React from 'react'
+
 import scauImg from "../assets/stats.webp"
 import { FaArrowRightLong } from "react-icons/fa6";
 const ShudulingSction = () => {

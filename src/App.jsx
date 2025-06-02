@@ -4,13 +4,14 @@ import Hero from './Component/Hero'
 import CompenyLogo from './Component/CompenyLogo'
 import PurposeSection from './Component/PurposeSection'
 import FeatureSction from './Component/FeatureSction'
-import ShudulingSction from './Component/shudulingSction'
+
 import MonitoringSection from './Component/MonitoringSection'
 import PriceSection from './Component/PriceSection'
 import ServiceSection from './Component/ServiceSection'
 import TestimonialSection from './Component/TestimonialSection'
 import NewsLetter from './NewsLetter'
 import Fotter from './Component/Fotter'
+import ShudulingSction from './Component/ShudulingSction'
 
 
 
