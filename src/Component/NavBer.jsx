@@ -12,17 +12,13 @@ const NavBer = () => {
       hraf:"#about" , lebel:"ABOURT"
     },
     {
-      hraf:"#service" , lebel:"SERVICE"
+      hraf:"#service" , lebel:"Our SERVICE"
     },
-    {
-      hraf:"#gallery" , lebel:"GELLRY"
-    },
+   
     {
       hraf:"#testomonia" , lebel: "TESTIMONIALS"
     },
-    {
-      hraf:"#contract" , lebel:"CONTRACT"
-    },
+ 
     
   ]
   return (
@@ -54,7 +50,7 @@ const NavBer = () => {
       }
   
     </div>
-<button className='hidden md:block bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-900 rtext-sm hover:shadow-blue-500'>
+<button className='hidden md:block bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-900 rtext-sm hover:shadow-blue-500 ml-2'>
   <a href="#newsLeatter">
     GET IN TUCH
   </a>
